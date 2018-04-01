@@ -1,3 +1,5 @@
-# py-package-template
+=========
+py-package-template
+=========
 
 An example python package.
