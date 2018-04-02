@@ -6,7 +6,9 @@ Home-page: https://github.com/gamlieldor/py-package
 Author: Dor Gamliel
 Author-email: gamlieldor@gmail.com
 License: MIT
-Description: # py-package-template
+Description: =========
+        py-package-template
+        =========
         
         An example python package.
         
